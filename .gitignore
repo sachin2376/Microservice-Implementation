@@ -1,0 +1,6 @@
+bin/
+appsettings.Developement.Json
+obj/
+Properties/
+wwwroot/
+*.sln

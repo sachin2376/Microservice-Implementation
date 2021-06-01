@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{763D1FE2-1A65-4841-8798-634399A5924E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MicroservicesClient/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="MicroservicesClient/Controllers/HomeController.cs" Line="46" Column="33" />
+      <File FileName="MicroservicesClient/Models/Employee.cs" />
+      <File FileName="MicroservicesClient/Views/Home/Index.cshtml" />
+      <File FileName="MicroservicesClient/Startup.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MicroservicesClient" expanded="True">
+            <Node name="MicroservicesClient" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MicroservicesClient PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

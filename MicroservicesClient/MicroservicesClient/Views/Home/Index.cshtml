@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model List<MicroservicesClient.Models.Employee>
+
+
+@foreach (Employee emp in Model)
+{
+    <p class="text-success"> @emp.Id >>> @emp.Name >>> @emp.Salary >>> @emp.Ispermanent </p>
+
+}
