@@ -4,3 +4,4 @@ obj/
 Properties/
 wwwroot/
 *.sln
+.DS_Store
